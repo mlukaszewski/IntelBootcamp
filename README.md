@@ -6,4 +6,4 @@ Materials for Intel Bootcamp
 https://1drv.ms/f/s!Amo6x3OdRpGRv-80TaPEvxzQH1-CeQ
 
 * Refactoring presentation:
-https://1drv.ms/f/s!Amo6x3OdRpGRv-80TaPEvxzQH1-CeQ
+https://mlukaszewski.github.io/
